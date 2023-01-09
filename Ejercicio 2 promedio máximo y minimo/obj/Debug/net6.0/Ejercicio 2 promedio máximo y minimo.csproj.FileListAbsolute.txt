@@ -1,0 +1,15 @@
+C:\Users\master\source\repos\Ejercicio 2 promedio máximo y minimo\Ejercicio 2 promedio máximo y minimo\bin\Debug\net6.0\Ejercicio 2 promedio máximo y minimo.exe
+C:\Users\master\source\repos\Ejercicio 2 promedio máximo y minimo\Ejercicio 2 promedio máximo y minimo\bin\Debug\net6.0\Ejercicio 2 promedio máximo y minimo.deps.json
+C:\Users\master\source\repos\Ejercicio 2 promedio máximo y minimo\Ejercicio 2 promedio máximo y minimo\bin\Debug\net6.0\Ejercicio 2 promedio máximo y minimo.runtimeconfig.json
+C:\Users\master\source\repos\Ejercicio 2 promedio máximo y minimo\Ejercicio 2 promedio máximo y minimo\bin\Debug\net6.0\Ejercicio 2 promedio máximo y minimo.dll
+C:\Users\master\source\repos\Ejercicio 2 promedio máximo y minimo\Ejercicio 2 promedio máximo y minimo\bin\Debug\net6.0\Ejercicio 2 promedio máximo y minimo.pdb
+C:\Users\master\source\repos\Ejercicio 2 promedio máximo y minimo\Ejercicio 2 promedio máximo y minimo\obj\Debug\net6.0\Ejercicio 2 promedio máximo y minimo.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\Ejercicio 2 promedio máximo y minimo\Ejercicio 2 promedio máximo y minimo\obj\Debug\net6.0\Ejercicio 2 promedio máximo y minimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\source\repos\Ejercicio 2 promedio máximo y minimo\Ejercicio 2 promedio máximo y minimo\obj\Debug\net6.0\Ejercicio 2 promedio máximo y minimo.AssemblyInfoInputs.cache
+C:\Users\master\source\repos\Ejercicio 2 promedio máximo y minimo\Ejercicio 2 promedio máximo y minimo\obj\Debug\net6.0\Ejercicio 2 promedio máximo y minimo.AssemblyInfo.cs
+C:\Users\master\source\repos\Ejercicio 2 promedio máximo y minimo\Ejercicio 2 promedio máximo y minimo\obj\Debug\net6.0\Ejercicio 2 promedio máximo y minimo.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\Ejercicio 2 promedio máximo y minimo\Ejercicio 2 promedio máximo y minimo\obj\Debug\net6.0\Ejercicio 2 promedio máximo y minimo.dll
+C:\Users\master\source\repos\Ejercicio 2 promedio máximo y minimo\Ejercicio 2 promedio máximo y minimo\obj\Debug\net6.0\refint\Ejercicio 2 promedio máximo y minimo.dll
+C:\Users\master\source\repos\Ejercicio 2 promedio máximo y minimo\Ejercicio 2 promedio máximo y minimo\obj\Debug\net6.0\Ejercicio 2 promedio máximo y minimo.pdb
+C:\Users\master\source\repos\Ejercicio 2 promedio máximo y minimo\Ejercicio 2 promedio máximo y minimo\obj\Debug\net6.0\Ejercicio 2 promedio máximo y minimo.genruntimeconfig.cache
+C:\Users\master\source\repos\Ejercicio 2 promedio máximo y minimo\Ejercicio 2 promedio máximo y minimo\obj\Debug\net6.0\ref\Ejercicio 2 promedio máximo y minimo.dll
